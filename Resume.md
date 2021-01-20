@@ -1,5 +1,6 @@
  <center>
-     <h1>龙奇涵</h1>
+     <div style="float:right"> <img src="assets/my-photo.jpg" width="120px"> </div>
+     <h1 style="width:15%">龙奇涵</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -15,10 +16,12 @@
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/longqh3">Github</a>
          </span>
+         <br >
+         <br >
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+<h2 style="width:15%"><img src="assets/info-circle-solid.svg" width="30px"> 个人信息 </h2>
 
  - 男，1997 年出生，中共党员
  - 求职意向：投行业务助理
@@ -28,6 +31,14 @@
 - 硕士，中山大学，遗传学专业，2019.9~2022.6
 - 学士，中山大学，预防医学专业，2014.9~2019.6
 - 绩点：3.6，年级前 20%
+
+## <img src="assets/prize-badge.svg" width="30px"> 获奖经历
+
+- 中山大学三等奖学金：2014、2015、2017年度
+- 中山大学励志奖学金：2016年度
+- 国家励志奖学金：2015、2017年度
+- 研究生一等奖学金：2019、2020年度
+- 天津海河国际龙舟邀请赛团体第五名：2015年度
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 实习经历
 
@@ -39,7 +50,7 @@
 
   学习食品、环境、传染病突发公共卫生事件的预防、处理、善后流程，多次同职能科室带教老师前往现场处理突发公共卫生事件。
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 科研工作
+## <img src="assets/open-book.svg" width="30px"> 科研工作
 
 - **复杂遗传病双基因遗传模式分析**（等待返修）
 
@@ -56,8 +67,8 @@
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - **专业能力**
-  - 通过证券从业资格考试，可胜任基本的分析工作
-  - 了解WindQuant（万矿量化云平台）中数据可视化部分。在自身专业不完全对口的情况下，我会继续努力，弥补自己的不足，精进自己的能力，更希望能在实习过程中更加明确未来的学习、发展方向。
+  - 通过证券从业资格考试，可胜任基本分析工作
+  - 了解WindQuant（万矿量化云平台）中数据可视化部分
 - **计算机能力**
   - 熟练Python编程，能应用Pandas、sklearn等库快速完成数据分析工作
   - 了解PHP、R、Java编程，需要时可快速上手
